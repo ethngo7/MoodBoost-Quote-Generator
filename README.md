@@ -4,7 +4,7 @@ A work-in-progress web app that turns your written feelings into hand-picked mot
 
 This project involves sentimental analysis, keyword extraction, and is built with **Python**, **Streamlit**, and lightweight NLP.
 
-<img width="927" alt="Screenshot 2025-06-19 at 23 35 58" src="https://github.com/user-attachments/assets/f15a1ce2-167a-4728-91ce-a4c1f4132ea0" />
+<img width="836" alt="Screenshot 2025-06-19 at 23 38 35" src="https://github.com/user-attachments/assets/4b1cba74-b8b3-451b-9c0f-fd60716067db" />
 
 
 ---
