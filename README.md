@@ -1,11 +1,10 @@
 # 💬 MoodBoost Quote Generator
 
-A work-in-progress web app that turns your written feelings into hand-picked motivational quotes.  
+A work-in-progress web app that turns your written feelings into hand-picked motivational quotes. Involves sentimental analysis, keyword extraction, 
 Built with **Python**, **Streamlit**, and lightweight NLP.
 
-<div align="center">
-  <img src="screenshot.png" width="650"/>
-</div>
+<img width="927" alt="Screenshot 2025-06-19 at 23 35 58" src="https://github.com/user-attachments/assets/f15a1ce2-167a-4728-91ce-a4c1f4132ea0" />
+
 
 ---
 
